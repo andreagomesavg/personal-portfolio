@@ -7,12 +7,12 @@ export const experienceData = [
         company: "Cibernova",
         responsibilities: [
             
-  "I was responsible for the technical implementation of a WordPress-like editable web platform, developed with Payload CMS as the content management system for the client.",
-  "I configured and structured multiple collections (users, pages, blogs, events, images), managing permissions, user roles, and change auditing in the administration panel.",
-  "I customized the Payload panel with plugins like FormBuilder and made visual improvements using Styling v4 for a better editorial experience.",
-  "I developed the frontend with Next.js and Tailwind CSS v4, ensuring responsive design and interactive components through ShadCN.",
-  "I implemented a dynamic calendar for the events collection (past and future) and a complete advanced forms system with validation.",
-  "I managed the dynamic rendering of elements like navbar, footer, and pages from the CMS, enabling simple and autonomous content administration for the client."
+  "Was responsible for the technical implementation of a WordPress-like editable web platform, developed with Payload CMS as the content management system for the client.",
+  "Configured and structured multiple collections (users, pages, blogs, events, images), managing permissions, user roles, and change auditing in the administration panel.",
+  "Customized the Payload panel with plugins like FormBuilder and made visual improvements using Styling v4 for a better editorial experience.",
+  "Developed the frontend with Next.js and Tailwind CSS v4, ensuring responsive design and interactive components through ShadCN.",
+  "Implemented a dynamic calendar for the events collection (past and future) and a complete advanced forms system with validation.",
+  "Managed the dynamic rendering of elements like navbar, footer, and pages from the CMS, enabling simple and autonomous content administration for the client."
         ],
         initial: "February 2025",
         final: "May 2025",
